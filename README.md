@@ -1,4 +1,4 @@
-![alt text](https://github.com/minilogique/ww-extruder-for-idga/blob/main/images/WW%20IDGA%20smooth%20idler%20sideview.PNG)
+![alt text](https://github.com/minilogique/Scorpion-Toolhead-ST/blob/main/images/96e792df-60c6-4dc4-90b6-255d4008f3e2.PNG)
 
 I wanted a toolhead for CNC TAPv2 that also supports big hotend, has CPAP cooling and has clear access and visibility to the nozzle and hotend for maintenance. It uses the same Stealthburner carriage pattern so if it holds the classic Stealthburner, this here also fits.
 
