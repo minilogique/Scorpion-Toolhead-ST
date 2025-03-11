@@ -1,3 +1,5 @@
+![alt text](https://github.com/minilogique/ww-extruder-for-idga/blob/main/images/WW%20IDGA%20smooth%20idler%20sideview.PNG)
+
 I wanted a toolhead for CNC TAPv2 that also supports big hotend, has CPAP cooling and has clear access and visibility to the nozzle and hotend for maintenance. It uses the same Stealthburner carriage pattern so if it holds the classic Stealthburner, this here also fits.
 
 Let's start from the top - extruder carrier. Cutdown version of the original carrier from CrownCooler toolhead and possibly even the original Stealthburner extruder mount. I have not tested the fitment, but it might work. Added access holes for 3mm hex tool for easier access, strengthened frame around heat insert. Uses same hardware as official Stealthburner part.
