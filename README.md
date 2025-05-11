@@ -1,4 +1,4 @@
-![alt text](https://github.com/minilogique/Scorpion-Toolhead-ST/blob/main/images/abs_render.PNG)
+![alt text](https://github.com/minilogique/Scorpion-Toolhead-ST/blob/main/images/abs.PNG)
 
 
 I wanted a toolhead for CNC TAPv2 that also supports big hotend, has CPAP cooling and has clear access and visibility to the nozzle and hotend for maintenance. It uses the same Stealthburner carriage pattern so if it holds the classic Stealthburner, this here also fits.
